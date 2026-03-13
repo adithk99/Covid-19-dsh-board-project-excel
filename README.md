@@ -76,7 +76,7 @@ This dataset is used to perform analysis and build interactive visualizations.
 
 ## Dashboard Preview
 
-![Covid Dashboard](dashboard.png)
+![Covid Dashboard](Covid19dashboard.png)
 
 ---
 
